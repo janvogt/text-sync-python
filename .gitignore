@@ -1,0 +1,8 @@
+# Editor related files
+*.sublime-*
+
+# Python virtualenv
+bin/
+include/
+lib/
+.Python
